@@ -4,7 +4,7 @@
 
     
 
-<h1 style="color:;"> Programando em html</h1>
+<h1 style="color:;"> Desenvolvendo em HTML</h1>
 
 <img src= "b4.png" height="10%" width="100%"> 
                  <p align="left"> Este é o site que eu estou criando. Como você pode ver, ele ainda está em construção. </p>
