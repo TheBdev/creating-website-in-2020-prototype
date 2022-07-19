@@ -2,23 +2,16 @@
 
 <html>
 
-       <head>  
     
-    
-                   <title> Site Em Construção </title> 
-    
-       </head>
-    
-        <body style="background-color:;"> 
 
 <h1 style="color:;"> Programando em html</h1>
 
-<img src= "b4.png" height="10%" width="100%"></> 
+<img src= "b4.png" height="10%" width="100%"> 
                  <p align="left"> Este é o site que eu estou criando. Como você pode ver, ele ainda está em construção. </p>
 
 <br><h2> Sobre o Autor Deste Site</h2>
 
-<img src= "A.png" hight="30%" width="15%"></> <br>
+<img src= "A.png" hight="30%" width="15%"> <br>
 
 Meu nome é Anderson Gomes Scarpi. Tenho 34 anos e sou brasileiro. Sou casado com Talita Gomes de Araújo SCARPI.
 
